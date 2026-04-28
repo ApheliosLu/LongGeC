@@ -1,0 +1,3 @@
+﻿  sort.c
+C:\BOOK\day8\1.排序suanfa\sort.c(239,48): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  1.排序suanfa.vcxproj -> C:\BOOK\day8\Debug\1.排序算法.exe

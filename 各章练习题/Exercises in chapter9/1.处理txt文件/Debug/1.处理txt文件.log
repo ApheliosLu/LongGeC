@@ -1,0 +1,4 @@
+﻿  1.处理txt文件.cpp
+  main.c
+C:\BOOK\各章练习题\Exercises in chapter9\1.处理txt文件\main.c(10,7): warning C4101: “buf”: 未引用的局部变量
+  1.处理txt文件.vcxproj -> C:\BOOK\各章练习题\Exercises in chapter9\Debug\1.处理txt文件.exe

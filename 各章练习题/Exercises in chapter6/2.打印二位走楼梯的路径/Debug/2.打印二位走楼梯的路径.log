@@ -1,0 +1,5 @@
+﻿  2.打印二位走楼梯的路径.cpp
+  main.c
+C:\BOOK\各章练习题\Exercises in chapter6\2.打印二位走楼梯的路径\main.c(22,3): warning C4033: “ff”必须返回值
+C:\BOOK\各章练习题\Exercises in chapter6\2.打印二位走楼梯的路径\main.c(39): warning C4716: “ff”: 必须返回一个值
+  2.打印二位走楼梯的路径.vcxproj -> C:\BOOK\各章练习题\Exercises in chapter6\Debug\2.打印二位走楼梯的路径.exe

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71951df4-0165-4bf1-9fda-380b25735cc2": {
+      "ProjectGuid": "71951df4-0165-4bf1-9fda-380b25735cc2",
+      "DisplayName": "1.结构体",
+      "ColorIndex": 0
+    },
+    "2db7af54-eebe-447c-9dd3-48c413ad7722": {
+      "ProjectGuid": "2db7af54-eebe-447c-9dd3-48c413ad7722",
+      "DisplayName": "2.结构体指针",
+      "ColorIndex": 1
+    },
+    "dbd7bf04-d9a0-4e8c-b4f0-707e12a15fc3": {
+      "ProjectGuid": "dbd7bf04-d9a0-4e8c-b4f0-707e12a15fc3",
+      "DisplayName": "3.链表",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "be5adccb-2272-4582-8f28-697fa3a414dc": {
+      "ProjectGuid": "be5adccb-2272-4582-8f28-697fa3a414dc",
+      "DisplayName": "4.共用体和枚举",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

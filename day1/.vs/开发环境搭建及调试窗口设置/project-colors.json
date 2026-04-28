@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "722c5fa6-904d-4a13-9340-686e194dc5be": {
+      "ProjectGuid": "722c5fa6-904d-4a13-9340-686e194dc5be",
+      "DisplayName": "1.Hello_World",
+      "ColorIndex": 0
+    },
+    "ead12b87-39ae-4ea5-8f31-9d0a0bb36a49": {
+      "ProjectGuid": "ead12b87-39ae-4ea5-8f31-9d0a0bb36a49",
+      "DisplayName": "数据类型_整形数据_符号常量",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "723f834e-eda2-4a69-8859-478b929ee8d6": {
+      "ProjectGuid": "723f834e-eda2-4a69-8859-478b929ee8d6",
+      "DisplayName": "2.数据类型_整型数据_符号常量",
+      "ColorIndex": 2
+    },
+    "cb8d592c-721d-40b5-87de-23fba1d9db14": {
+      "ProjectGuid": "cb8d592c-721d-40b5-87de-23fba1d9db14",
+      "DisplayName": "2.数据类型_整型数据_符号常量",
+      "ColorIndex": 3
+    },
+    "0a8fe3fd-1e9c-43b5-9c22-de6f62e44c45": {
+      "ProjectGuid": "0a8fe3fd-1e9c-43b5-9c22-de6f62e44c45",
+      "DisplayName": "3.不同进制展示",
+      "ColorIndex": 4
+    },
+    "2c1b28ee-3268-4548-8d18-b6a944245e0b": {
+      "ProjectGuid": "2c1b28ee-3268-4548-8d18-b6a944245e0b",
+      "DisplayName": "4.补码",
+      "ColorIndex": 5
+    },
+    "3dbc7bd4-f0ba-4ea0-9a11-478b6db2eb51": {
+      "ProjectGuid": "3dbc7bd4-f0ba-4ea0-9a11-478b6db2eb51",
+      "DisplayName": "5.溢出",
+      "ColorIndex": 6
+    },
+    "9a805405-9d46-473f-82e9-e0e899514215": {
+      "ProjectGuid": "9a805405-9d46-473f-82e9-e0e899514215",
+      "DisplayName": "6.浮点数精度丢失",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

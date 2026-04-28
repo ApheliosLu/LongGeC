@@ -1,0 +1,3 @@
+﻿  main.c
+C:\BOOK\day9\1.文件操作\main.c(28,7): warning C4101: “buf”: 未引用的局部变量
+  1.文件操作.vcxproj -> C:\BOOK\day9\Debug\1.文件操作.exe

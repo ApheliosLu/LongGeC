@@ -1,0 +1,6 @@
+﻿  main.c
+C:\BOOK\各章练习题\Exercises in chapter2\2.输入小写输出大写\main.c(7,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\BOOK\各章练习题\Exercises in chapter2\2.输入小写输出大写\main.c(7,17): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\BOOK\各章练习题\Exercises in chapter2\2.输入小写输出大写\main.c(7,17): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\BOOK\各章练习题\Exercises in chapter2\2.输入小写输出大写\main.c(7,17): message : 此参数用作缓冲区大小
+  2.输入小写输出大写.vcxproj -> C:\BOOK\各章练习题\Exercises in chapter2\x64\Debug\2.输入小写输出大写.exe

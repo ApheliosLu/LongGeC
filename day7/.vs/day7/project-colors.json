@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21d106b6-c0e9-44cc-9f46-6479435a72a1": {
+      "ProjectGuid": "21d106b6-c0e9-44cc-9f46-6479435a72a1",
+      "DisplayName": "1.数据结构和算法",
+      "ColorIndex": 0
+    },
+    "8da506df-094a-42f0-8702-581adbe2ce12": {
+      "ProjectGuid": "8da506df-094a-42f0-8702-581adbe2ce12",
+      "DisplayName": "2.排序算法",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

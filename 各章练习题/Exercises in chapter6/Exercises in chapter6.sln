@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.二维走楼梯", "1.二维走楼梯\1.二维走楼梯.vcxproj", "{1BF30A97-F9FF-486D-BFB8-89ABDE4BE3C1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.打印二位走楼梯的路径", "2.打印二位走楼梯的路径\2.打印二位走楼梯的路径.vcxproj", "{73DE6569-9575-487B-A38D-74B075A5B6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF30A97-F9FF-486D-BFB8-89ABDE4BE3C1}.Debug|x64.ActiveCfg = Debug|x64
+		{1BF30A97-F9FF-486D-BFB8-89ABDE4BE3C1}.Debug|x64.Build.0 = Debug|x64
+		{1BF30A97-F9FF-486D-BFB8-89ABDE4BE3C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BF30A97-F9FF-486D-BFB8-89ABDE4BE3C1}.Debug|x86.Build.0 = Debug|Win32
+		{1BF30A97-F9FF-486D-BFB8-89ABDE4BE3C1}.Release|x64.ActiveCfg = Release|x64
+		{1BF30A97-F9FF-486D-BFB8-89ABDE4BE3C1}.Release|x64.Build.0 = Release|x64
+		{1BF30A97-F9FF-486D-BFB8-89ABDE4BE3C1}.Release|x86.ActiveCfg = Release|Win32
+		{1BF30A97-F9FF-486D-BFB8-89ABDE4BE3C1}.Release|x86.Build.0 = Release|Win32
+		{73DE6569-9575-487B-A38D-74B075A5B6DD}.Debug|x64.ActiveCfg = Debug|x64
+		{73DE6569-9575-487B-A38D-74B075A5B6DD}.Debug|x64.Build.0 = Debug|x64
+		{73DE6569-9575-487B-A38D-74B075A5B6DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{73DE6569-9575-487B-A38D-74B075A5B6DD}.Debug|x86.Build.0 = Debug|Win32
+		{73DE6569-9575-487B-A38D-74B075A5B6DD}.Release|x64.ActiveCfg = Release|x64
+		{73DE6569-9575-487B-A38D-74B075A5B6DD}.Release|x64.Build.0 = Release|x64
+		{73DE6569-9575-487B-A38D-74B075A5B6DD}.Release|x86.ActiveCfg = Release|Win32
+		{73DE6569-9575-487B-A38D-74B075A5B6DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D045AB-ECBA-4659-A050-C08534743A99}
+	EndGlobalSection
+EndGlobal

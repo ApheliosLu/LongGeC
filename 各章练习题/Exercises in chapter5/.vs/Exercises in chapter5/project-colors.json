@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1bb2849-a985-4dc5-bf9e-dafa99175e9e": {
+      "ProjectGuid": "f1bb2849-a985-4dc5-bf9e-dafa99175e9e",
+      "DisplayName": "1.奇偶数分离",
+      "ColorIndex": 0
+    },
+    "43eca9a2-265c-4439-bc42-71e3be645a98": {
+      "ProjectGuid": "43eca9a2-265c-4439-bc42-71e3be645a98",
+      "DisplayName": "2.分离字符和数字",
+      "ColorIndex": 1
+    },
+    "f5f72360-dad5-453c-bd84-f47e7497b807": {
+      "ProjectGuid": "f5f72360-dad5-453c-bd84-f47e7497b807",
+      "DisplayName": "3.空格替换为字符串",
+      "ColorIndex": 2
+    },
+    "a19555d4-565a-4dd1-abf4-81998f1f8e52": {
+      "ProjectGuid": "a19555d4-565a-4dd1-abf4-81998f1f8e52",
+      "DisplayName": "4.删除字符串中指定的字符",
+      "ColorIndex": 3
+    },
+    "b67032ba-a3ad-4244-a09f-87ad62f03885": {
+      "ProjectGuid": "b67032ba-a3ad-4244-a09f-87ad62f03885",
+      "DisplayName": "5.删除数组中重复的元素",
+      "ColorIndex": 4
+    },
+    "cf64084c-4be9-47e6-a304-c75d34cc6d63": {
+      "ProjectGuid": "cf64084c-4be9-47e6-a304-c75d34cc6d63",
+      "DisplayName": "6.删除多余的空格",
+      "ColorIndex": 5
+    },
+    "b5ccff13-2f97-4165-859d-1bf1b88c43ea": {
+      "ProjectGuid": "b5ccff13-2f97-4165-859d-1bf1b88c43ea",
+      "DisplayName": "7.实现大整数加法",
+      "ColorIndex": 6
+    },
+    "92552ed8-e1c1-4a61-9d57-5c9a4dea2d29": {
+      "ProjectGuid": "92552ed8-e1c1-4a61-9d57-5c9a4dea2d29",
+      "DisplayName": "8.求字符串数组的最大值和次大值",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

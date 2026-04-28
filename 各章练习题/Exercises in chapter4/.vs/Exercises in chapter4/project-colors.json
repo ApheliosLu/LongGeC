@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87b1c798-cbfd-49ad-a24a-efb8c5bbb0e3": {
+      "ProjectGuid": "87b1c798-cbfd-49ad-a24a-efb8c5bbb0e3",
+      "DisplayName": "1.自己实现str系列函数",
+      "ColorIndex": 0
+    },
+    "ba491cb3-b845-4a85-b6f3-d5a4fb8d7233": {
+      "ProjectGuid": "ba491cb3-b845-4a85-b6f3-d5a4fb8d7233",
+      "DisplayName": "2.输入字符串，输出单词个数",
+      "ColorIndex": 1
+    },
+    "5f81bc0c-1397-46a1-baae-a45f0d108739": {
+      "ProjectGuid": "5f81bc0c-1397-46a1-baae-a45f0d108739",
+      "DisplayName": "3.读取字符串，遍历打印二维数组",
+      "ColorIndex": 2
+    },
+    "fb1a0c48-4b14-461f-a535-ca78b9de1b99": {
+      "ProjectGuid": "fb1a0c48-4b14-461f-a535-ca78b9de1b99",
+      "DisplayName": "4.反转字符串",
+      "ColorIndex": 3
+    },
+    "be07ceed-ea87-4649-b131-4b4b47977558": {
+      "ProjectGuid": "be07ceed-ea87-4649-b131-4b4b47977558",
+      "DisplayName": "5.判断数组是否含有数字",
+      "ColorIndex": 4
+    },
+    "9652315a-44e3-4d53-b22a-87ef2271f396": {
+      "ProjectGuid": "9652315a-44e3-4d53-b22a-87ef2271f396",
+      "DisplayName": "6.打印n位十进制数",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

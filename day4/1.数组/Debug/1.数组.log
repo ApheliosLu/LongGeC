@@ -1,0 +1,5 @@
+﻿  1.数组.cpp
+  main.c
+C:\BOOK\LongGeC\day4\1.数组\main.c(12,6): warning C4101: “i”: 未引用的局部变量
+C:\BOOK\LongGeC\day4\1.数组\main.c(10,7): warning C4101: “d”: 未引用的局部变量
+  1.数组.vcxproj -> C:\BOOK\LongGeC\day4\Debug\1.数组.exe

@@ -1,0 +1,14 @@
+﻿  main.c
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(24,10): warning C4098: “decimal_binary”:“void”函数返回值
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(36,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(36,17): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(36,17): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(36,17): message : 此参数用作缓冲区大小
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(46,10): warning C4098: “binary_decimal”:“void”函数返回值
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(70,10): warning C4098: “decimal_hexadecimal”:“void”函数返回值
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(82,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(82,17): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(82,17): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(82,17): message : 此参数用作缓冲区大小
+C:\BOOK\各章练习题\Exercises in chapter2\进制转换\main.c(95,10): warning C4098: “hexadecimal_decimal”:“void”函数返回值
+  进制转换.vcxproj -> C:\BOOK\各章练习题\Exercises in chapter2\x64\Debug\4.进制转换.exe

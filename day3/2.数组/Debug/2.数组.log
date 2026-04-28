@@ -1,0 +1,6 @@
+﻿  main.c
+C:\BOOK\day3\2.数组\main.c(50,9): warning C4101: “j”: 未引用的局部变量
+C:\BOOK\day3\2.数组\main.c(50,6): warning C4101: “i”: 未引用的局部变量
+C:\BOOK\day3\2.数组\main.c(104,13): warning C4013: “gets”未定义；假设外部返回 int
+C:\BOOK\day3\2.数组\main.c(104,26): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  2.数组.vcxproj -> C:\BOOK\day3\Debug\2.数组.exe

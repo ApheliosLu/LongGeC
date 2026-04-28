@@ -1,0 +1,4 @@
+﻿E:\Microsoft Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(6.（3‘）103整数中找出现一次的三个数.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+E:\1\CCC\C\LongGeC\各章练习题\Exercises in chapter2\6.（3‘）103整数中找出现一次的三个数\main.c(104,6): warning C4101: “val”: 未引用的局部变量
+  6.（3‘）103整数中找出现一次的三个数.vcxproj -> E:\1\CCC\C\LongGeC\各章练习题\Exercises in chapter2\Debug\6.（3‘）103整数中找出现一次的三个数✔.exe

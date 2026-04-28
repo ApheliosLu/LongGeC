@@ -1,0 +1,7 @@
+﻿  2.打印二位走楼梯的路径.cpp
+  main.c
+C:\BOOK\各章练习题\Exercises in chapter6\2.打印二位走楼梯的路径\main.c(22,3): warning C4033: “ff”必须返回值
+C:\BOOK\各章练习题\Exercises in chapter6\2.打印二位走楼梯的路径\main.c(51,7): warning C4013: “sytem”未定义；假设外部返回 int
+C:\BOOK\各章练习题\Exercises in chapter6\2.打印二位走楼梯的路径\main.c(39): warning C4716: “ff”: 必须返回一个值
+main.obj : error LNK2019: 无法解析的外部符号 sytem，函数 main 中引用了该符号
+C:\BOOK\各章练习题\Exercises in chapter6\x64\Debug\2.打印二位走楼梯的路径.exe : fatal error LNK1120: 1 个无法解析的外部命令

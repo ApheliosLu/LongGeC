@@ -1,0 +1,3 @@
+﻿  main.c
+C:\BOOK\day2\5.浮点常量默认大小\main.c(7,1): warning C4305: “初始化”: 从“double”到“float”截断
+  5.浮点常量默认大小.vcxproj -> C:\BOOK\day2\x64\Debug\5.浮点常量默认大小.exe

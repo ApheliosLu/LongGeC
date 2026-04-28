@@ -1,0 +1,9 @@
+﻿  main.c
+C:\BOOK\各章练习题\Exercises in chapter7\1.建立学生信息结构体\main.c(23,11): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“double *”
+C:\BOOK\各章练习题\Exercises in chapter7\1.建立学生信息结构体\main.c(23,11): message : 此参数用作缓冲区大小
+C:\BOOK\各章练习题\Exercises in chapter7\1.建立学生信息结构体\main.c(23,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\BOOK\各章练习题\Exercises in chapter7\1.建立学生信息结构体\main.c(23,11): message : 占位符和其参数预计 6 可变参数，但提供的却是 5 参数
+C:\BOOK\各章练习题\Exercises in chapter7\1.建立学生信息结构体\main.c(23,11): message : 缺失的可变参数 6 为格式字符串“%lf”所需
+C:\BOOK\各章练习题\Exercises in chapter7\1.建立学生信息结构体\main.c(43,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+C:\BOOK\各章练习题\Exercises in chapter7\1.建立学生信息结构体\main.c(43,10): warning C4313: “printf”: 格式字符串中的“%d”与“char *”类型的参数 2 冲突
+  1.建立学生信息结构体.vcxproj -> C:\BOOK\各章练习题\Exercises in chapter7\x64\Debug\1.建立学生信息结构体.exe

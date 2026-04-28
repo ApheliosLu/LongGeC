@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a1cfc49e-3ce2-4378-be48-f8110f4e4620": {
+      "ProjectGuid": "a1cfc49e-3ce2-4378-be48-f8110f4e4620",
+      "DisplayName": "1.数组",
+      "ColorIndex": 0
+    },
+    "634d4c92-f531-4676-b6ea-f9a6a71c7479": {
+      "ProjectGuid": "634d4c92-f531-4676-b6ea-f9a6a71c7479",
+      "DisplayName": "2.指针",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

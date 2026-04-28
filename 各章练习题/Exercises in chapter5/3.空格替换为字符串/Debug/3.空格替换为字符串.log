@@ -1,0 +1,6 @@
+﻿  3.空格替换为字符串.cpp
+  main.c
+C:\BOOK\各章练习题\Exercises in chapter5\3.空格替换为字符串\main.c(12,6): warning C4013: “gets”未定义；假设外部返回 int
+C:\BOOK\各章练习题\Exercises in chapter5\3.空格替换为字符串\main.c(13,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\BOOK\各章练习题\Exercises in chapter5\3.空格替换为字符串\main.c(23,16): warning C4018: “<”: 有符号/无符号不匹配
+  3.空格替换为字符串.vcxproj -> C:\BOOK\各章练习题\Exercises in chapter5\Debug\3.空格替换为字符串.exe

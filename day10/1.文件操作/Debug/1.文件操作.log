@@ -1,0 +1,3 @@
+﻿  main.c
+C:\BOOK\day10\1.文件操作\main.c(57,18): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  1.文件操作.vcxproj -> C:\BOOK\day10\Debug\1.文件操作.exe

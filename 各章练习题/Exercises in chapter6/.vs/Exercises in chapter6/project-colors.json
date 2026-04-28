@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1bf30a97-f9ff-486d-bfb8-89abde4be3c1": {
+      "ProjectGuid": "1bf30a97-f9ff-486d-bfb8-89abde4be3c1",
+      "DisplayName": "1.二维走楼梯",
+      "ColorIndex": 0
+    },
+    "73de6569-9575-487b-a38d-74b075a5b6dd": {
+      "ProjectGuid": "73de6569-9575-487b-a38d-74b075a5b6dd",
+      "DisplayName": "2.打印二位走楼梯的路径",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,5 @@
+﻿C:\Microsoft Visual Studio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(判断浮点数相等.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+C:\BOOK\各章练习题\Exercises in chapter2\判断浮点数相等\main.c(6,1): warning C4305: “初始化”: 从“double”到“float”截断
+  判断浮点数相等.cpp
+  判断浮点数相等.vcxproj -> C:\BOOK\各章练习题\Exercises in chapter2\x64\Debug\1.判断浮点数相等.exe

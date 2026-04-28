@@ -1,0 +1,6 @@
+﻿  2.输入字符串，输出单词个数.cpp
+  main.c
+C:\BOOK\各章练习题\Exercises in chapter4\2.输入字符串，输出单词个数\main.c(9,13): warning C4013: “gets”未定义；假设外部返回 int
+C:\BOOK\各章练习题\Exercises in chapter4\2.输入字符串，输出单词个数\main.c(9,24): warning C4047: “!=”:“int”与“void *”的间接级别不同
+C:\BOOK\各章练习题\Exercises in chapter4\2.输入字符串，输出单词个数\main.c(12,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\BOOK\各章练习题\Exercises in chapter4\2.输入字符串，输出单词个数\main.c(14,47): error C2106: “=”: 左操作数必须为左值

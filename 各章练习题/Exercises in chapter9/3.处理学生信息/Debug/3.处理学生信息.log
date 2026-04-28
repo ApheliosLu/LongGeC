@@ -1,0 +1,14 @@
+﻿  3.处理学生信息.cpp
+  main.c
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(23,12): warning C4047: “=”:“pstu”与“pstu *”的间接级别不同
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(33,20): warning C4133: “=”: 从“pstu”到“Student *”的类型不兼容
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(41,22): warning C4133: “=”: 从“pstu”到“Student *”的类型不兼容
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(42,22): warning C4133: “=”: 从“pstu”到“Student *”的类型不兼容
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(46,21): warning C4133: “=”: 从“Student *”到“pstu”的类型不兼容
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(50,24): warning C4133: “=”: 从“pstu”到“Student *”的类型不兼容
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(74,40): warning C4474: fprintf: 格式字符串中传递的参数太多
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(74,40): message : 占位符和其参数预计 6 可变参数，但提供的却是 7 参数
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(75,20): warning C4133: “=”: 从“Student *”到“pstu”的类型不兼容
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(99,41): warning C4047: “函数”:“pstu *”与“student *”的间接级别不同
+C:\BOOK\各章练习题\Exercises in chapter9\3.处理学生信息\main.c(99,34): warning C4024: “list_sort_insert”: 形参和实参 3 的类型不同
+  3.处理学生信息.vcxproj -> C:\BOOK\各章练习题\Exercises in chapter9\Debug\3.处理学生信息.exe

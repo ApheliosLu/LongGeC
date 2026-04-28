@@ -1,0 +1,14 @@
+﻿  rbtree.cpp
+e:\code_26\20180912\词频前10的优秀答案\rbtree.cpp(698): warning C4101: “node”: 未引用的局部变量
+  main.cpp
+e:\code_26\20180912\词频前10的优秀答案\main.cpp(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+  HashTable.cpp
+e:\code_26\20180912\词频前10的优秀答案\hashtable.cpp(67): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : 参见“strdup”的声明
+e:\code_26\20180912\词频前10的优秀答案\hashtable.cpp(89): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : 参见“strdup”的声明
+  正在生成代码...
+e:\code_26\20180912\词频前10的优秀答案\rbtree.cpp(98): warning C4715: “rbtree_search”: 不是所有的控件路径都返回值
+e:\code_26\20180912\词频前10的优秀答案\rbtree.cpp(119): warning C4715: “iterative_rbtree_search”: 不是所有的控件路径都返回值
+  7.测试.vcxproj -> E:\CODE_26\20180912\Debug\7.测试.exe

@@ -1,0 +1,5 @@
+﻿E:\Microsoft Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(7.scanf循环读取.vcxproj, 7.今天最后.vcxproj, 7.读取标准输入.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+E:\1\CCC\C\LongGeC\day2\7.scanf循环读取\main.c(36,8): warning C4305: “初始化”: 从“double”到“float”截断
+E:\1\CCC\C\LongGeC\day2\7.scanf循环读取\main.c(44,16): warning C4101: “result”: 未引用的局部变量
+  7.scanf循环读取.vcxproj -> E:\1\CCC\C\LongGeC\day2\x64\Debug\7.运算符.exe

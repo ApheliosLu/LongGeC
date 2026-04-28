@@ -1,0 +1,4 @@
+﻿  main.c
+C:\BOOK\day3\1.选择-循环-数组\main.c(118,10): warning C4098: “use_for”:“void”函数返回值
+C:\BOOK\day3\1.选择-循环-数组\main.c(134,10): warning C4098: “use_continue”:“void”函数返回值
+  1.选择-循环-数组.vcxproj -> C:\BOOK\day3\x64\Debug\1.选择-循环-数组.exe

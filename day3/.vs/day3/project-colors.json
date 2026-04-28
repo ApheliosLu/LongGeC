@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0efe2e2-818f-4076-8817-fc0bab1acc7e": {
+      "ProjectGuid": "f0efe2e2-818f-4076-8817-fc0bab1acc7e",
+      "DisplayName": "1.选择-循环-数组",
+      "ColorIndex": 0
+    },
+    "7454a5ff-a250-4815-b5f1-977857a18018": {
+      "ProjectGuid": "7454a5ff-a250-4815-b5f1-977857a18018",
+      "DisplayName": "2.数组",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

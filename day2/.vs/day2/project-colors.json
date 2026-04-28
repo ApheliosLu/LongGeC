@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1027011e-8295-458e-9060-3bf025e67c08": {
+      "ProjectGuid": "1027011e-8295-458e-9060-3bf025e67c08",
+      "DisplayName": "1.字符型",
+      "ColorIndex": 0
+    },
+    "5cc5926f-ccad-42d0-924c-86b3bca4d6e3": {
+      "ProjectGuid": "5cc5926f-ccad-42d0-924c-86b3bca4d6e3",
+      "DisplayName": "2.字符赋值变量",
+      "ColorIndex": 1
+    },
+    "2eefc95e-0a35-4c7b-8f1c-a76f7779249e": {
+      "ProjectGuid": "2eefc95e-0a35-4c7b-8f1c-a76f7779249e",
+      "DisplayName": "3.混合运算",
+      "ColorIndex": 2
+    },
+    "a9b3cade-0c5d-461d-bfd7-c407452f2653": {
+      "ProjectGuid": "a9b3cade-0c5d-461d-bfd7-c407452f2653",
+      "DisplayName": "4.相乘溢出",
+      "ColorIndex": 3
+    },
+    "61da4bfc-726b-42db-a60f-9dd27c0157d2": {
+      "ProjectGuid": "61da4bfc-726b-42db-a60f-9dd27c0157d2",
+      "DisplayName": "5.浮点常量默认大小",
+      "ColorIndex": 4
+    },
+    "6953370e-45b4-491d-8b0b-bafb10e9d0e1": {
+      "ProjectGuid": "6953370e-45b4-491d-8b0b-bafb10e9d0e1",
+      "DisplayName": "6.读取标准输入",
+      "ColorIndex": 5
+    },
+    "728a6702-51f7-4a7a-b5fc-0fba62e1feac": {
+      "ProjectGuid": "728a6702-51f7-4a7a-b5fc-0fba62e1feac",
+      "DisplayName": "7.scanf循环读取",
+      "ColorIndex": 6
+    },
+    "35440cd2-021b-47c0-9994-e8dd301abde6": {
+      "ProjectGuid": "35440cd2-021b-47c0-9994-e8dd301abde6",
+      "DisplayName": "9.运算符测试",
+      "ColorIndex": 7
+    },
+    "7fd15dce-595e-4983-92d0-aac76b92b40f": {
+      "ProjectGuid": "7fd15dce-595e-4983-92d0-aac76b92b40f",
+      "DisplayName": "10.奇了怪了",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

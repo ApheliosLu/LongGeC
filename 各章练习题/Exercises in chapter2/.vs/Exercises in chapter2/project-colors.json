@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "456dddde-151d-4791-8f7e-87c6c8d3fa14": {
+      "ProjectGuid": "456dddde-151d-4791-8f7e-87c6c8d3fa14",
+      "DisplayName": "判断浮点数相等",
+      "ColorIndex": 0
+    },
+    "20d0a973-3fc8-458e-883a-c2c22d398d66": {
+      "ProjectGuid": "20d0a973-3fc8-458e-883a-c2c22d398d66",
+      "DisplayName": "2.输入小写输出大写",
+      "ColorIndex": 1
+    },
+    "958f0a21-06bf-412b-97c7-248cb26f5882": {
+      "ProjectGuid": "958f0a21-06bf-412b-97c7-248cb26f5882",
+      "DisplayName": "进制转换",
+      "ColorIndex": 2
+    },
+    "2387ad61-c94e-4371-8c00-1cad1d5ff447": {
+      "ProjectGuid": "2387ad61-c94e-4371-8c00-1cad1d5ff447",
+      "DisplayName": "5.统计整数中1的个数",
+      "ColorIndex": 3
+    },
+    "4d58b477-bee0-4aed-9cf2-9646f4fd082f": {
+      "ProjectGuid": "4d58b477-bee0-4aed-9cf2-9646f4fd082f",
+      "DisplayName": "6.(1)101整数找出现一次的一个数",
+      "ColorIndex": 4
+    },
+    "0bcd7c8c-73a8-45eb-b690-77896cf67876": {
+      "ProjectGuid": "0bcd7c8c-73a8-45eb-b690-77896cf67876",
+      "DisplayName": "6.（2）102整数找出现一次的两个数",
+      "ColorIndex": 5
+    },
+    "7e1b6062-9878-4af1-8b95-dec6c63ebd57": {
+      "ProjectGuid": "7e1b6062-9878-4af1-8b95-dec6c63ebd57",
+      "DisplayName": "6.(3)103整数中找出现一次的三个数",
+      "ColorIndex": 6
+    },
+    "2849b7e7-47fb-4b6d-9acd-efc6a9d504d6": {
+      "ProjectGuid": "2849b7e7-47fb-4b6d-9acd-efc6a9d504d6",
+      "DisplayName": "6.（3‘）103整数中找出现一次的三个数",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}

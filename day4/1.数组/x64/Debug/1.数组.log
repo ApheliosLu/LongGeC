@@ -1,0 +1,5 @@
+﻿  1.数组.cpp
+  main.c
+C:\BOOK\各章练习题\Exercises in chapter3\day4\1.数组\main.c(11,13): warning C4013: “gets”未定义；假设外部返回 int
+C:\BOOK\各章练习题\Exercises in chapter3\day4\1.数组\main.c(11,24): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  1.数组.vcxproj -> C:\BOOK\各章练习题\Exercises in chapter3\day4\x64\Debug\1.数组.exe

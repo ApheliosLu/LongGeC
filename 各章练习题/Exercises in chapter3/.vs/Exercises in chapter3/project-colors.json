@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73c0185e-32ee-4e95-8ac6-6b0548a9c22f": {
+      "ProjectGuid": "73c0185e-32ee-4e95-8ac6-6b0548a9c22f",
+      "DisplayName": "1.从键盘上输入字符",
+      "ColorIndex": 0
+    },
+    "a65aecc0-493e-4921-8069-95094fed8b75": {
+      "ProjectGuid": "a65aecc0-493e-4921-8069-95094fed8b75",
+      "DisplayName": "2.年、月、日、周、日历",
+      "ColorIndex": 1
+    },
+    "20159e8a-9e8e-4af9-9600-958cb6599f56": {
+      "ProjectGuid": "20159e8a-9e8e-4af9-9600-958cb6599f56",
+      "DisplayName": "2.(2)求两个日期间相隔天数",
+      "ColorIndex": 2
+    },
+    "badc6b80-ec3e-439a-ae09-ff8d2e259ca4": {
+      "ProjectGuid": "badc6b80-ec3e-439a-ae09-ff8d2e259ca4",
+      "DisplayName": "2.(3)由日期推断周几",
+      "ColorIndex": 3
+    },
+    "c7ca4a16-0980-4cc5-b111-4835ef05cf01": {
+      "ProjectGuid": "c7ca4a16-0980-4cc5-b111-4835ef05cf01",
+      "DisplayName": "2.（4）由日期和整数推断日期",
+      "ColorIndex": 4
+    },
+    "0ecc1933-66cf-4ae1-810c-0c2da6071e84": {
+      "ProjectGuid": "0ecc1933-66cf-4ae1-810c-0c2da6071e84",
+      "DisplayName": "2.（5）输出月份日历",
+      "ColorIndex": 5
+    },
+    "e4826b92-27be-45b0-8629-156b2c0b133a": {
+      "ProjectGuid": "e4826b92-27be-45b0-8629-156b2c0b133a",
+      "DisplayName": "3.打印年份日历",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

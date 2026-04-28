@@ -1,0 +1,6 @@
+﻿  main.c
+E:\1\CCC\C\LongGeC\day2\9.运算符测试\main.c(23,8): warning C4305: “初始化”: 从“double”到“float”截断
+E:\1\CCC\C\LongGeC\day2\9.运算符测试\main.c(74,4): warning C4552: ”>>“: 未使用表达式结果
+E:\1\CCC\C\LongGeC\day2\9.运算符测试\main.c(119,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+E:\1\CCC\C\LongGeC\day2\9.运算符测试\main.c(119,9): message : 请考虑在格式字符串中使用“%zd”
+  9.运算符测试.vcxproj -> E:\1\CCC\C\LongGeC\day2\x64\Debug\9.运算符测试.exe

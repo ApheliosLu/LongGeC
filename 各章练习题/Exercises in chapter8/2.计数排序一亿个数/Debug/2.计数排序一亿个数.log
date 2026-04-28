@@ -1,0 +1,7 @@
+﻿  main.c
+C:\BOOK\各章练习题\Exercises in chapter8\2.计数排序一亿个数\main.c(65,12): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\BOOK\各章练习题\Exercises in chapter8\2.计数排序一亿个数\main.c(75,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+C:\BOOK\各章练习题\Exercises in chapter8\2.计数排序一亿个数\main.c(75,9): message : 请考虑在格式字符串中使用“%lld”
+C:\BOOK\各章练习题\Exercises in chapter8\2.计数排序一亿个数\main.c(75,9): message : 请考虑在格式字符串中使用“%I64d”
+C:\BOOK\各章练习题\Exercises in chapter8\2.计数排序一亿个数\main.c(77,2): warning C4098: “main”:“void”函数返回值
+  2.计数排序一亿个数.vcxproj -> C:\BOOK\各章练习题\Exercises in chapter8\Debug\2.计数排序一亿个数.exe

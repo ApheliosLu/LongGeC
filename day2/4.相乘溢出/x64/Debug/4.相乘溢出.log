@@ -1,0 +1,4 @@
+﻿  4.相乘溢出.cpp
+  mian.c
+E:\1\CCC\C\LongGeC\day2\4.相乘溢出\mian.c(8,11): warning C4305: “=”: 从“int”到“char”截断
+  4.相乘溢出.vcxproj -> E:\1\CCC\C\LongGeC\day2\x64\Debug\4.相乘溢出.exe

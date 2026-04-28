@@ -1,0 +1,4 @@
+﻿  1.二级指针.cpp
+  main.c
+C:\BOOK\day5\1.二级指针\main.c(9,1): warning C4047: “初始化”:“int *”与“int **”的间接级别不同
+  1.二级指针.vcxproj -> C:\BOOK\day5\x64\Debug\1.二级指针.exe
